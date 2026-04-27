@@ -1,4 +1,5 @@
-# Information-Value-Assessment-in-Human-AI-Interaction
+# Information-Value-Assessment-in-Human-AI-Interaction(A Rearch Proposal)
+
 A research project on Information Value Assessment in Human–AI Interaction
 
 1. Information-Graph Priors
